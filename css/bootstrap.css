@@ -657,6 +657,7 @@ p {
   font-size: 21px;
   font-weight: 200;
   line-height: 30px;
+  text-align: right;
 }
 
 small {
@@ -764,7 +765,7 @@ h3 {
 }
 
 h1 {
-  font-size: 38.5px;
+  font-size: 55px;
 }
 
 h2 {
@@ -967,6 +968,7 @@ address {
   margin-bottom: 20px;
   font-style: normal;
   line-height: 20px;
+  font-size: 20px;
 }
 
 code,
